@@ -1,0 +1,8 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+django-filter
+celery
+redis
+psycopg2-binary
+django-celery-beat
